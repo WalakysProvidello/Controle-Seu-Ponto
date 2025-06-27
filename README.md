@@ -31,18 +31,14 @@ Crie o banco de dados no MySQL usando o script SQL disponível na pasta /databas
 
 Ajuste as configurações de conexão com o banco de dados no arquivo config.php.
 
-Acesse o sistema pelo navegador através do endereço local (ex: http://localhost/controle-seu-ponto).
+# Acesse o sistema pelo navegador através do endereço local (ex: http://localhost/controle-seu-ponto).
 
 📈 Próximos Passos / Melhorias Planejadas
 🔐 Implementar autenticação e controle de sessões.
-
 🔔 Adicionar notificações e alertas de horas extras ou faltas.
-
 📱 Criar versão mobile otimizada.
-
 📉 Melhorar a interface com mais gráficos e relatórios.
 
-📞 Contato
-Para dúvidas, sugestões ou colaborações, entre em contato:
-Email: seuemail@exemplo.com
-LinkedIn: linkedin.com/in/seuperfil
+📞 Contato Para dúvidas, sugestões ou colaborações, entre em contato:
+**Email:** seuemail@exemplo.com
+**LinkedIn:** linkedin.com/in/seuperfil
