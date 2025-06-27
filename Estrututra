@@ -1,0 +1,22 @@
+controle-seu-ponto/
+│
+├── /database/
+│   └── create_database.sql
+│
+├── /public/
+│   ├── index.php
+│   ├── login.php
+│   ├── register.php
+│   ├── dashboard.php
+│   ├── style.css
+│   └── script.js
+│
+├── /src/
+│   ├── config.php
+│   ├── Database.php
+│   ├── UserController.php
+│   ├── PointController.php
+│   └── WeatherAPI.php
+│
+└── /vendor/
+    └── (PhpSpreadsheet e outras dependências)
